@@ -1,0 +1,10 @@
+com\forum\web\controller\UserController.class
+com\forum\web\dao\AbstractDao.class
+com\forum\web\dao\UserDao.class
+com\forum\web\configuration\AppConfig.class
+com\forum\web\service\UserServiceImpl.class
+com\forum\web\configuration\HibernateConfiguration.class
+com\forum\web\model\Users.class
+com\forum\web\dao\UserDaoImpl.class
+com\forum\web\configuration\AppInitializer.class
+com\forum\web\service\UserService.class
